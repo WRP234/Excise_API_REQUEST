@@ -1,1 +1,2 @@
-# XCS_API_REQUEST
+# XCS-API-RequestBribe
+XCS-API-RequestBribe
