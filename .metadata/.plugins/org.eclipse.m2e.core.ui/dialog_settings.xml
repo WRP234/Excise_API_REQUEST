@@ -3,6 +3,7 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 			<item value="C:\Users\Best\OneDrive\เอกสาร\git\XCS-API-RequestBribe"/>
+			<item value="D:\ED ผู้กระทำผิด\02_SpringBootAPI\XCS-API-RequestBribe-main"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
